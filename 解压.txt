@@ -1,0 +1,1 @@
+copy /b burpsuite.zip.* burpsuite1.7.zip
